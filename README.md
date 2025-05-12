@@ -1,6 +1,7 @@
 # prueba_desempe-o_m1
+# Inventory management system
 ![Mi imagen](control-inventario-erp-2.jpg)
-## Inventory management system
+##
 This is a basic inventory management code in python,It allows the user to have basic management of their inventory, contains several functions and a main menu through which the different functions can be accessed. Such as adding, searching, updating, and deleting products, as well as an option to generate a report of the total inventory.
 # Requirements:
 Python 3.x installed in your system
