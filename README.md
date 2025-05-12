@@ -77,6 +77,6 @@ output:
 Total inventory value: $3997000.00
 ```
 ## Notes
-### The inventory starts with 5 default products
-### All inputs are validated to prevent negative or incorrect values.
-### All comments are written in English as required.
+### #The inventory starts with 5 default products
+### #All inputs are validated to prevent negative or incorrect values.
+### #All comments are written in English as required.
