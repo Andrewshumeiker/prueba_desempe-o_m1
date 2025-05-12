@@ -4,9 +4,10 @@
 ##
 This is a basic inventory management code in python,It allows the user to have basic management of their inventory, contains several functions and a main menu through which the different functions can be accessed. Such as adding, searching, updating, and deleting products, as well as an option to generate a report of the total inventory.
 # Requirements:
-Python 3.x installed in your system
+Python 3.x installed in your system.
 ### How to run this code
-clone this repository or download .py
+Download or clone the repository.
+Open a terminal and navigate into the project directory 
 # Features: 
 ## Add products: 
 Contains a function to add products with their name, quantity and price.
@@ -22,7 +23,7 @@ output:
 ```python
 Product'agua'registered successfully. 
 ```
-## Search for products: 
+## Search products: 
 Contains the option to search for products in the inventory, showing their basic information.
 ### Example search product:
 input:
@@ -64,7 +65,7 @@ output:
 ```python
 Product 'bocadillo' deleted successfully.
 ```
-## Generate report:
+## Generate inventory report:
 You can generate inventory reports, calculating the quantity of each product by its unit price, thus showing the total inventory of all products.
 ### Example Generate report
 input:
@@ -77,5 +78,5 @@ Total inventory value: $3997000.00
 ```
 ## Notes
 ### The inventory starts with 5 default products
-### All inputs are validated so that no errors occur, with negative values ​​or invalid data.
-
+### All inputs are validated to prevent negative or incorrect values.
+### All comments are written in English as required.
